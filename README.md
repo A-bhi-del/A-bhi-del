@@ -28,8 +28,8 @@
 ---
 
 ## 📫 Connect With Me
-- GitHub: **https://github.com/YourUsername**
-- LinkedIn: **(Add your link here)**
+- GitHub: **https://github.com/A-bhi-del**
+- LinkedIn: **https://www.linkedin.com/in/abhishek-gupta-37745029b**
 
 ---
 
