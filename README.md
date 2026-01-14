@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhi</h1>
+<h3 align="center">A passionate Developer | DSA + Web Development 🚀</h3>
 
-<!--
-**A-bhi-del/A-bhi-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔥 I love solving **coding problems** and building **real-world projects**
+- 🌱 Currently learning **MERN Stack & DSA**
+- 💡 Improving my skills daily and exploring new technologies
+- 🎯 Goal: Become a **Skilled Software Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+**Languages:** C++ | JavaScript  
+**Frontend:** HTML | CSS | Tailwind | React  
+**Backend:** Node.js | Express.js  
+**Database:** MongoDB  
+**Tools:** Git | GitHub | VS Code  
+
+---
+
+## 📌 What I'm Doing
+- ✅ Solving problems on **LeetCode / GFG**
+- ✅ Building projects using **React & MERN**
+- ✅ Learning advanced DSA concepts
+
+---
+
+## 📫 Connect With Me
+- GitHub: **https://github.com/YourUsername**
+- LinkedIn: **(Add your link here)**
+
+---
+
+⭐ **Thanks for visiting my profile!**
