@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Icons)
+## 🛠️ Tech Stack
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,js,html,css,tailwind,react,nextjs,nodejs,express,mongodb,git,github,vscode" />
 </p>
