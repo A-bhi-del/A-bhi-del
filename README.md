@@ -34,19 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-bhi-del&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-bhi-del&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=A-bhi-del&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 - 💻 GitHub: **https://github.com/A-bhi-del**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/abhishek-gupta-37745029b**
