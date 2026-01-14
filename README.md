@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhi</h1>
+<h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Developer | DSA + Web Development 🚀</h3>
 
 ---
@@ -19,8 +19,8 @@
 
 ## 📌 What I'm Doing
 - ✅ Solving problems on **LeetCode / GFG**
-- ✅ Building projects using **React & MERN**
-- ✅ Learning advanced DSA concepts
+- ✅ Building projects using **Next.js, MERN (MongoDB, Express.js, React, Node.js)**
+- ✅ Learning advanced DSA concepts 
 
 ---
 
