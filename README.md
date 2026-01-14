@@ -12,12 +12,9 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** C++ | JavaScript  
-**Frontend:** HTML | CSS | Tailwind | React  
-**Backend:** Node.js | Express.js  
-**Database:** MongoDB  
-**Tools:** Git | GitHub | VS Code  
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,tailwind,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
 ---
 
 ## 📌 What I'm Doing
