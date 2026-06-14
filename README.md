@@ -48,4 +48,6 @@ B.Tech CSE Student @ IIIT Una • Full Stack Web Developer
 
 ---
 
-⭐                                       **Thanks for visiting my profile!** 🚀
+<p align="center">
+  <strong>⭐ Thanks for visiting my profile! 🚀</strong>
+</p>
