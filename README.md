@@ -42,8 +42,10 @@ B.Tech CSE Student @ IIIT Una • Full Stack Web Developer
 
 ---
 
-⭐ **Thanks for visiting my profile!** 🚀
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/A-bhi-del/A-bhi-del/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
+
+---
+
+⭐                                       **Thanks for visiting my profile!** 🚀
