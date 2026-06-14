@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">DSA Enthusiast | MERN & Next.js Developer 🚀</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=40&duration=1&pause=1000000&color=58A6FF&center=true&vCenter=true&width=700&lines=Abhishek" alt="Abhishek" />
+</p>
+
+<h3 align="center">
+B.Tech CSE Student @ IIIT Una • Full Stack Web Developer
+</h3>
 
 <p align="center">
   <a href="https://github.com/A-bhi-del" target="_blank">
