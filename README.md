@@ -13,9 +13,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔥 I love solving **DSA problems** and building **real-world projects**
-- 🌱 Currently learning **MERN Stack & Next.js**
-- 💡 Improving my skills daily and exploring new technologies
+- 🎓 B.Tech CSE student at IIIT Una
+- 🔥 Passionate about solving **DSA problems** and building **real-world projects**
+- 🌐 Full Stack Web Developer with a strong focus on Backend Development
+- 💡 Continuously exploring new technologies and improving my skills
 - 🎯 Goal: Become a **Skilled Software Developer**
 
 ---
@@ -35,7 +36,6 @@
 ---
 
 ## 📫 Connect With Me
-- 💻 GitHub: **https://github.com/A-bhi-del**
 - 🔗 LinkedIn: **https://www.linkedin.com/in/abhishek-gupta-37745029b**
 
 ---
