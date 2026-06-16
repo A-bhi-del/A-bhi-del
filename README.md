@@ -23,77 +23,94 @@ B.Tech CSE Student @ IIIT Una • Full Stack Web Developer
 
 ---
 
-## 🛠️ Tech Stack
-<table align="center">
+## 💻 My Tech Stack
+
+<div align="center">
+
+<table>
 <tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" />
-    <br>C++
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=python" width="48" height="48" />
-    <br>Python
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" />
-    <br>JavaScript
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" />
-    <br>TypeScript
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" />
-    <br>React
-  </td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+<br>React
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+<br>Python
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+<br>JavaScript
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
+<br>TypeScript
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
+<br>AWS
+</td>
 </tr>
 
 <tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" />
-    <br>Node.js
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" />
-    <br>MySQL
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
-    <br>HTML5
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
-    <br>CSS3
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" />
-    <br>Tailwind
-  </td>
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
+<br>GitHub
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
+<br>MySQL
+</td>
+
+<td align="center" width="96">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
+<br>C++
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="65" height="65" />
+<br>HTML
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="65" height="65" />
+<br>CSS
+</td>
 </tr>
 
 <tr>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
-    <br>Git
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" />
-    <br>GitHub
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" />
-    <br>VS Code
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" />
-    <br>Bash
-  </td>
-  <td align="center" width="96">
-    <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" />
-    <br>Vercel
-  </td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" />
+<br>Tailwind
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" />
+<br>Node.js
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="65" height="65" />
+<br>Git
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" />
+<br>VS Code
+</td>
+
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="65" height="65" />
+<br>Vercel
+</td>
 </tr>
 </table>
+
+</div>
 
 ---
 
