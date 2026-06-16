@@ -116,23 +116,25 @@ B.Tech CSE Student @ IIIT Una • Full Stack Web Developer
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%"
-       src="https://github-readme-stats.vercel.app/api?username=A-bhi-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=A-bhi-del&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+</td>
+</tr>
 
-  <img width="37%"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-bhi-del&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-bhi-del&layout=compact&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
 
-<p align="center">
-  <img width="60%"
-       src="https://github-readme-streak-stats.herokuapp.com?user=A-bhi-del&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="95%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=A-bhi-del&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<tr>
+<td align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=A-bhi-del&theme=tokyonight&hide_border=true" />
+</td>
+</tr>
+</table>
 
 
 ---
