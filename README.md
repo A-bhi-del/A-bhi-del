@@ -121,9 +121,9 @@ B.Tech CSE Student @ IIIT Una • Full Stack Web Developer
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-bhi-del&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=A-bhi-del&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ## 📈 Contribution Graph
 
