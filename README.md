@@ -117,8 +117,8 @@ B.Tech CSE Student @ IIIT Una • Full Stack Web Developer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=A-bhi-del&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-bhi-del&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=A-bhi-del&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=A-bhi-del&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <!-- <p align="center">
