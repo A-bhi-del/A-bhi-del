@@ -119,7 +119,11 @@ B.Tech CSE Student @ IIIT Una • Full Stack Web Developer
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=A-bhi-del&theme=tokyo-night&hide_border=true&area=true" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=A-bhi-del&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
+    alt="GitHub Activity Graph"
+  />
 </p>
 
 ---
