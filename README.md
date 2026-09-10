@@ -2,6 +2,7 @@
 <h3 align="center">
 B.Tech CSE Student @ IIIT Una • Full Stack Web Developer
 </h3>
+
 <p align="center">
   <a href="https://github.com/A-bhi-del" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-A--bhi--del-black?style=for-the-badge&logo=github" />
