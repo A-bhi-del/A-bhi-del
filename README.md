@@ -32,44 +32,44 @@ B.Tech CSE Student @ IIIT Una • Full Stack Web Developer
 <table>
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=react" width="65" height="65" />
 <br>React
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=py" width="65" height="65" />
 <br>Python
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=js" width="65" height="65" />
 <br>JavaScript
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=ts" width="65" height="65" />
 <br>TypeScript
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=aws" width="65" height="65" />
 <br>AWS
 </td>
 </tr>
 
 <tr>
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=github" width="65" height="65" />
 <br>GitHub
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=mysql" width="65" height="65" />
 <br>MySQL
 </td>
 
 <td align="center" width="96">
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" />
 <br>C++
 </td>
 
@@ -113,7 +113,6 @@ B.Tech CSE Student @ IIIT Una • Full Stack Web Developer
 </table>
 
 </div>
-
 ---
 
 
